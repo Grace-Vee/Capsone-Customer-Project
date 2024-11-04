@@ -68,7 +68,7 @@ During the initial phase of the data entry, the folowing actions were performed
      2.  Standardization: Used find and replace to standardize certain fields
      3.  Data import from Excel to SQL and Power BI
 
-     ### Data Transformation:
+### Data Transformation:
  ---
  - Data was transformed to thoroughly clean, remove issues with data and increase column quality, column distribution and profile to 100%
       1. Data Types and Formatting: This was done to ensure all data fields were assigned the correct data types, with numerical fields formatted as whole numbers, 
@@ -111,3 +111,24 @@ Rate Of Cancellation = SUM('Customer Data B'[Cancelled count])/SUM('Customer Dat
 
 ### Data Visualization
 ---
+![Cus table](https://github.com/user-attachments/assets/7e724407-6370-4e6d-8f17-5eaccb3e1aaa)
+
+![Cus chat](https://github.com/user-attachments/assets/ffd76271-b946-4cb8-a1e6-634db47e182e)
+
+![Cus pattern](https://github.com/user-attachments/assets/d303ec9e-abc6-49f6-a2e1-ae9655168bf8)
+
+![Cus SQL](https://github.com/user-attachments/assets/d7e75294-0cef-44c1-8c72-3592dd6048e6)
+
+![Cus SQL 1 png](https://github.com/user-attachments/assets/bb1c5678-d25f-46d9-bfb1-57d399b04373)
+
+![Cus SQL 2 png](https://github.com/user-attachments/assets/95568ac3-fac4-4ff9-af04-3a8b0a1c504b)
+
+![Cus SQL 3 png](https://github.com/user-attachments/assets/dddef420-6dc6-4797-9637-bae10014b14f)
+
+![Cus SQL 4 png](https://github.com/user-attachments/assets/a7e2a619-81b1-456e-bce2-32eef639c024)
+
+![Cus SQL 5 png](https://github.com/user-attachments/assets/cabb21ab-7da8-4a7d-b2c6-c4078ce86db6)
+
+![Cus SQL 6 png](https://github.com/user-attachments/assets/799f008b-4460-4dec-8540-89c76bd0853d)
+
+![Cus visual](https://github.com/user-attachments/assets/8f4aad7c-83bb-4f5a-a1a6-96ebdf1307a2)
