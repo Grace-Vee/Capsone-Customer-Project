@@ -115,7 +115,7 @@ Rate Of Cancellation = SUM('Customer Data B'[Cancelled count])/SUM('Customer Dat
 
 ![Cus chat](https://github.com/user-attachments/assets/ffd76271-b946-4cb8-a1e6-634db47e182e)
 
-![Cus pattern](https://github.com/user-attachments/assets/d303ec9e-abc6-49f6-a2e1-ae9655168bf8)
+
 
 ![Cus SQL](https://github.com/user-attachments/assets/d7e75294-0cef-44c1-8c72-3592dd6048e6)
 
@@ -132,3 +132,13 @@ Rate Of Cancellation = SUM('Customer Data B'[Cancelled count])/SUM('Customer Dat
 ![Cus SQL 6 png](https://github.com/user-attachments/assets/799f008b-4460-4dec-8540-89c76bd0853d)
 
 ![Cus visual](https://github.com/user-attachments/assets/8f4aad7c-83bb-4f5a-a1a6-96ebdf1307a2)
+
+### Insights
+---
+- The visual showed:
+   1. Sales Revenue: Total revenue is 68 million naira, while average revenue is 2 thousans naira, with 25 billion naira total turnover, from 34 thousand customers 
+      across 4 regions.
+  2. Out of the 34 thousand customers that subscribed, 15 thousand cancelled their subscription, which gave us a 45% rate of cancellation.
+  3. Supscription trend:
+ 
+![Cus pattern](https://github.com/user-attachments/assets/d303ec9e-abc6-49f6-a2e1-ae9655168bf8)
